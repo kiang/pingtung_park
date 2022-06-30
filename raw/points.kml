@@ -1,0 +1,3244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>屏東遊戲場</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>既有遊戲場_學校外_0221</name>
+      <Placemark>
+        <name>巴轆公園</name>
+        <description><![CDATA[說明: <br>xcoord: 197386.37950000001<br>ycoord: 2514191.83999999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197386.37950000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2514191.83999999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487785,22.727428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>內埔埔興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 205606.84239999999<br>ycoord: 2500934.41300000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>205606.84239999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2500934.41300000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.568188,22.607939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光明公園(南華路小公園)</name>
+        <description><![CDATA[說明: <br>xcoord: 206245.44519999999<br>ycoord: 2501790.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206245.44519999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2501790.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.574376,22.615683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田謝馬湖公園遊戲場特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 202915.04430000001<br>ycoord: 2498435.52600000007]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>202915.04430000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2498435.52600000007</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.54208,22.585299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>車城福安宮附近特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 220032.27320000000<br>ycoord: 2441486.09200000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>220032.27320000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2441486.09200000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.709616,22.071356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鐵店村籃球場</name>
+        <description><![CDATA[說明: <br>xcoord: 198664.47120000000<br>ycoord: 2519899.97599999979]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198664.47120000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2519899.97599999979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.50004,22.779016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里港河濱公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198310.26970000000<br>ycoord: 2520570.82899999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198310.26970000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2520570.82899999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.496569,22.785063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿里港公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198124.69680000001<br>ycoord: 2520012.53599999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198124.69680000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2520012.53599999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.49478,22.780016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佳冬運動公園</name>
+        <description><![CDATA[說明: <br>xcoord: 206378.20139999999<br>ycoord: 2480618.92900000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206378.20139999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2480618.92900000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.57625,22.424489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佳冬公園</name>
+        <description><![CDATA[說明: <br>xcoord: 203214.91709999999<br>ycoord: 2479836.91900000023]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>203214.91709999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2479836.91900000023</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.545545,22.417343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>來義鄉新來義永久屋基地特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 206900.70460000000<br>ycoord: 2489882.69900000002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206900.70460000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2489882.69900000002</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.581075,22.508164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>兒童公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 194083.46150000000<br>ycoord: 2485122.86200000020]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>194083.46150000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2485122.86200000020</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.456662,22.464806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉蓮公園</name>
+        <description><![CDATA[說明: <br>xcoord: 193462.07670000001<br>ycoord: 2484172.89199999999]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>193462.07670000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2484172.89199999999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.450658,22.456207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共和街旁空地</name>
+        <description><![CDATA[說明: <br>xcoord: 193891.16269999999<br>ycoord: 2484969.26699999999]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>193891.16269999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2484969.26699999999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.454799,22.463413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枋山社區公園</name>
+        <description><![CDATA[說明: <br>xcoord: 215020.76980000001<br>ycoord: 2461004.56000000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>215020.76980000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2461004.56000000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.660633,22.247544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉和公園</name>
+        <description><![CDATA[說明: <br>xcoord: 211516.14000000001<br>ycoord: 2469474.27699999977]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>211516.14000000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2469474.27699999977</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.626429,22.323962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加祿公園</name>
+        <description><![CDATA[說明: <br>xcoord: 210479.40349999999<br>ycoord: 2470419.82299999986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>210479.40349999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2470419.82299999986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.616342,22.332478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水底寮市場街旁綠地遊戲場</name>
+        <description><![CDATA[說明: <br>xcoord: 208613.59270000001<br>ycoord: 2476512.30800000019]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>208613.59270000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2476512.30800000019</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.598072,22.387457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>林邊火車站附近特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 200051.45230000000<br>ycoord: 2481470.28899999987]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>200051.45230000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2481470.28899999987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.514766,22.432005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>林邊兒童運動公園</name>
+        <description><![CDATA[說明: <br>xcoord: 200751.41670000000<br>ycoord: 2482424.27400000021]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>200751.41670000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2482424.27400000021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.521536,22.44064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>華森克里克公園（屏東農科）</name>
+        <description><![CDATA[說明: <br>xcoord: 202187.72260000001<br>ycoord: 2512788.38400000008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>202187.72260000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2512788.38400000008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.53457,22.714897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南州運動公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 199858.66720000000<br>ycoord: 2488043.20399999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199858.66720000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2488043.20399999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.512686,22.491359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>縣民公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198040.07980000001<br>ycoord: 2506487.41000000015]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198040.07980000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506487.41000000015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.494405,22.657872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹圍巷公園</name>
+        <description><![CDATA[說明: <br>xcoord: 195675.57840000000<br>ycoord: 2507802.03800000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>195675.57840000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2507802.03800000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.471352,22.66967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民學公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198886.57180000001<br>ycoord: 2508205.34800000023]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198886.57180000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508205.34800000023</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.502585,22.673412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高豐公園</name>
+        <description><![CDATA[說明: <br>xcoord: 199003.22190000000<br>ycoord: 2508431.79300000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199003.22190000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508431.79300000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.503713,22.67546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武愛公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196396.99720000001<br>ycoord: 2506402.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196396.99720000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506402.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.65705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清世公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196032.83080000000<br>ycoord: 2506303.69199999981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196032.83080000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506303.69199999981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47488,22.65615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>興豐公園</name>
+        <description><![CDATA[說明: <br>xcoord: 199487.37990000000<br>ycoord: 2509070.49500000011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199487.37990000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509070.49500000011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.508404,22.681243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 199657.36610000001<br>ycoord: 2509244.73900000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199657.36610000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509244.73900000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.510053,22.682822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和平公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198751.24530000001<br>ycoord: 2509575.00100000016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198751.24530000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509575.00100000016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.501224,22.685777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 197036.19060000000<br>ycoord: 2505133.41999999993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197036.19060000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2505133.41999999993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484682,22.645613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公21公園(永大共融公園)</name>
+        <description><![CDATA[說明: <br>xcoord: 196334.05489999999<br>ycoord: 2506791.19100000011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196334.05489999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506791.19100000011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.477794,22.660562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣立圖書館復興分館</name>
+        <description><![CDATA[說明: <br>xcoord: 196549.91170000000<br>ycoord: 2506758.50900000008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196549.91170000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506758.50900000008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.479896,22.660274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武立公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196000.70830000000<br>ycoord: 2506644.90700000012]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196000.70830000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506644.90700000012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.474556,22.65923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大武路公園</name>
+        <description><![CDATA[說明: <br>xcoord: 195813.73569999999<br>ycoord: 2506960.93399999989]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>195813.73569999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506960.93399999989</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.472726,22.662078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武順街135巷小公園</name>
+        <description><![CDATA[說明: <br>xcoord: 195715.27600000001<br>ycoord: 2506312.14900000021]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>195715.27600000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506312.14900000021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47179,22.656216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東公園</name>
+        <description><![CDATA[說明: <br>xcoord: 197831.30319999999<br>ycoord: 2508348.80400000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197831.30319999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508348.80400000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.492311,22.674675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>廣興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 197317.47349999999<br>ycoord: 2510225.97599999979]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197317.47349999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2510225.97599999979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487248,22.691612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>復興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196814.36739999999<br>ycoord: 2506578.16099999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196814.36739999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506578.16099999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.482475,22.658653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永新公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196394.60910000000<br>ycoord: 2508536.23400000017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196394.60910000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508536.23400000017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.478324,22.676323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東市極限運動場</name>
+        <description><![CDATA[說明: <br>xcoord: 196974.20240000001<br>ycoord: 2508571.39699999988]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196974.20240000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508571.39699999988</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.483963,22.676659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忠孝國小與公園</name>
+        <description><![CDATA[說明: <br>xcoord: 199075.74080000000<br>ycoord: 2508569.33600000013]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199075.74080000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508569.33600000013</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.504414,22.676705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蘭州街特色公園(勝利動物溜滑梯公園)</name>
+        <description><![CDATA[說明: <br>xcoord: 197099.14240000001<br>ycoord: 2508939.38599999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197099.14240000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508939.38599999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.485166,22.679986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千禧公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198417.16649999999<br>ycoord: 2508822.15700000012]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198417.16649999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508822.15700000012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.497997,22.678968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬年公園</name>
+        <description><![CDATA[說明: <br>xcoord: 197060.82600000000<br>ycoord: 2507233.79600000009]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197060.82600000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2507233.79600000009</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484851,22.664582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北興公園</name>
+        <description><![CDATA[說明: <br>xcoord: 198146.31330000001<br>ycoord: 2509972.27499999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>198146.31330000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509972.27499999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.495323,22.689346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>崇蘭環保公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196594.89079999999<br>ycoord: 2509705.94600000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196594.89079999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509705.94600000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.480233,22.686893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永大路公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196339.68599999999<br>ycoord: 2506714.47200000007]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196339.68599999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506714.47200000007</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.477852,22.659869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武成公園</name>
+        <description><![CDATA[說明: <br>xcoord: 196396.99720000001<br>ycoord: 2506402.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196396.99720000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506402.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.65705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中正市地重劃區遊樂場</name>
+        <description><![CDATA[說明: <br>xcoord: 196409.27220000001<br>ycoord: 2509900.08300000010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>196409.27220000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509900.08300000010</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.68864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石牌公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 223371.64490000001<br>ycoord: 2434068.76099999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>223371.64490000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2434068.76099999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.742095,22.004418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣新園鄉立圖書館共和分館</name>
+        <description><![CDATA[說明: <br>xcoord: 192224.294876898<br>ycoord: 2486706.92492251]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>192224.294876898</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2486706.92492251</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.438544,22.479052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第三公園</name>
+        <description><![CDATA[說明: <br>xcoord: 224025.93380000000<br>ycoord: 2434198.36200000020]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>224025.93380000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2434198.36200000020</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.74843,22.005599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>崁頂運動公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 199221.32810000001<br>ycoord: 2490724.50499999989]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>199221.32810000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2490724.50499999989</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.506406,22.515555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小琉球全人關懷園區特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 186769.88670000000<br>ycoord: 2472152.48900000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>186769.88670000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2472152.48900000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.386115,22.347417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小叮噹公園</name>
+        <description><![CDATA[說明: <br>xcoord: 209177.05170000001<br>ycoord: 2524899.91699999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>209177.05170000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2524899.91699999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.60229,22.824457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新埤鄉綜合休閒公園</name>
+        <description><![CDATA[說明: <br>xcoord: 206815.30840000001<br>ycoord: 2485338.54199999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206815.30840000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2485338.54199999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.580368,22.467123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新園鄉共融式公園</name>
+        <description><![CDATA[說明: <br>xcoord: 194460.49510000000<br>ycoord: 2493883.77900000010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>194460.49510000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2493883.77900000010</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.460019,22.543938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣新園鄉立圖書館共和分館</name>
+        <description><![CDATA[說明: <br>xcoord: 281738.58419999998<br>ycoord: 13397244.14000000060]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>281738.58419999998</value>
+          </Data>
+          <Data name="ycoord">
+            <value>13397244.14000000060</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.440704,22.478597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬丹鄉公園(萬丹鄉立游泳池)</name>
+        <description><![CDATA[說明: <br>xcoord: 197277.45590000000<br>ycoord: 2499431.27499999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>197277.45590000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2499431.27499999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487221,22.594126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬巒兒童親水公園</name>
+        <description><![CDATA[說明: <br>xcoord: 206636.82910000000<br>ycoord: 2498572.43999999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206636.82910000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2498572.43999999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.578271,22.586635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮州社福園區特色遊具建置</name>
+        <description><![CDATA[說明: <br>xcoord: 202544.71450000000<br>ycoord: 2492595.90799999982]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>202544.71450000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2492595.90799999982</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.538654,22.532551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三水公園</name>
+        <description><![CDATA[說明: <br>xcoord: 202926.83140000000<br>ycoord: 2495430.41800000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>202926.83140000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2495430.41800000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.542284,22.55816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮州運動公園</name>
+        <description><![CDATA[說明: <br>xcoord: 203529.01160000000<br>ycoord: 2493910.27999999980]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>203529.01160000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2493910.27999999980</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.548184,22.544449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公兒四(潮昇)兒童</name>
+        <description><![CDATA[說明: <br>xcoord: 203361.89520000000<br>ycoord: 2495247.41999999993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>203361.89520000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2495247.41999999993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.54652,22.55652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>麟洛車站花轎遊戲場</name>
+        <description><![CDATA[說明: <br>xcoord: 200081.57360000000<br>ycoord: 2503929.12800000003]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>200081.57360000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2503929.12800000003</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.51435,22.63483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔鄉家庭福利中心</name>
+        <description><![CDATA[說明: <br>xcoord: 206654.82810000001<br>ycoord: 2517822.00999999978]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206654.82810000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2517822.00999999978</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.577915,22.760475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔兒童重劃公園</name>
+        <description><![CDATA[說明: <br>xcoord: 205988.06700000001<br>ycoord: 2517045.87099999981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>205988.06700000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2517045.87099999981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.571444,22.753449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔雙新公園</name>
+        <description><![CDATA[說明: <br>xcoord: 204341.25109999999<br>ycoord: 2514550.86299999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>204341.25109999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2514550.86299999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.555482,22.730873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔公(兒)四</name>
+        <description><![CDATA[說明: <br>xcoord: 206120.05309999999<br>ycoord: 2516987.45699999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="xcoord">
+            <value>206120.05309999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2516987.45699999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.572731,22.752925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>既有遊戲場_學校外_0221</name>
+      <Placemark>
+        <name>巴轆公園</name>
+        <description><![CDATA[說明: <br>行政區: 九如鄉<br>xcoord: 197386.37950000001<br>ycoord: 2514191.83999999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>九如鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197386.37950000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2514191.83999999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487785,22.727428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>內埔埔興公園</name>
+        <description><![CDATA[說明: <br>行政區: 內埔鄉<br>xcoord: 205606.84239999999<br>ycoord: 2500934.41300000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>內埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>205606.84239999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2500934.41300000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.568188,22.607939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光明公園(南華路小公園)</name>
+        <description><![CDATA[說明: <br>行政區: 內埔鄉<br>xcoord: 206245.44519999999<br>ycoord: 2501790.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>內埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206245.44519999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2501790.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.574376,22.615683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹田謝馬湖公園遊戲場特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 竹田鄉<br>xcoord: 202915.04430000001<br>ycoord: 2498435.52600000007]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>竹田鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>202915.04430000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2498435.52600000007</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.54208,22.585299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>車城福安宮附近特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 車城鄉<br>xcoord: 220032.27320000000<br>ycoord: 2441486.09200000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>車城鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>220032.27320000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2441486.09200000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.709616,22.071356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鐵店村籃球場</name>
+        <description><![CDATA[說明: <br>行政區: 里港鄉<br>xcoord: 198664.47120000000<br>ycoord: 2519899.97599999979]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>里港鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198664.47120000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2519899.97599999979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.50004,22.779016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里港河濱公園</name>
+        <description><![CDATA[說明: <br>行政區: 里港鄉<br>xcoord: 198310.26970000000<br>ycoord: 2520570.82899999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>里港鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198310.26970000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2520570.82899999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.496569,22.785063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿里港公園</name>
+        <description><![CDATA[說明: <br>行政區: 里港鄉<br>xcoord: 198124.69680000001<br>ycoord: 2520012.53599999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>里港鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198124.69680000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2520012.53599999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.49478,22.780016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佳冬運動公園</name>
+        <description><![CDATA[說明: <br>行政區: 佳冬鄉<br>xcoord: 206378.20139999999<br>ycoord: 2480618.92900000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>佳冬鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206378.20139999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2480618.92900000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.57625,22.424489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佳冬公園</name>
+        <description><![CDATA[說明: <br>行政區: 佳冬鄉<br>xcoord: 203214.91709999999<br>ycoord: 2479836.91900000023]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>佳冬鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>203214.91709999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2479836.91900000023</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.545545,22.417343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>來義鄉新來義永久屋基地特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 來義鄉<br>xcoord: 206900.70460000000<br>ycoord: 2489882.69900000002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>來義鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206900.70460000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2489882.69900000002</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.581075,22.508164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>兒童公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 東港鎮<br>xcoord: 194083.46150000000<br>ycoord: 2485122.86200000020]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>東港鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>194083.46150000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2485122.86200000020</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.456662,22.464806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉蓮公園</name>
+        <description><![CDATA[說明: <br>行政區: 東港鎮<br>xcoord: 193462.07670000001<br>ycoord: 2484172.89199999999]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>東港鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>193462.07670000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2484172.89199999999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.450658,22.456207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共和街旁空地</name>
+        <description><![CDATA[說明: <br>行政區: 東港鎮<br>xcoord: 193891.16269999999<br>ycoord: 2484969.26699999999]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>東港鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>193891.16269999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2484969.26699999999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.454799,22.463413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枋山社區公園</name>
+        <description><![CDATA[說明: <br>行政區: 枋山鄉<br>xcoord: 215020.76980000001<br>ycoord: 2461004.56000000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>枋山鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>215020.76980000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2461004.56000000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.660633,22.247544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嘉和公園</name>
+        <description><![CDATA[說明: <br>行政區: 枋山鄉<br>xcoord: 211516.14000000001<br>ycoord: 2469474.27699999977]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>枋山鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>211516.14000000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2469474.27699999977</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.626429,22.323962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加祿公園</name>
+        <description><![CDATA[說明: <br>行政區: 枋山鄉<br>xcoord: 210479.40349999999<br>ycoord: 2470419.82299999986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>枋山鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>210479.40349999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2470419.82299999986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.616342,22.332478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水底寮市場街旁綠地遊戲場</name>
+        <description><![CDATA[說明: <br>行政區: 枋寮鄉<br>xcoord: 208613.59270000001<br>ycoord: 2476512.30800000019]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>枋寮鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>208613.59270000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2476512.30800000019</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.598072,22.387457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>林邊火車站附近特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 林邊鄉<br>xcoord: 200051.45230000000<br>ycoord: 2481470.28899999987]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>林邊鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>200051.45230000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2481470.28899999987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.514766,22.432005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>林邊兒童運動公園</name>
+        <description><![CDATA[說明: <br>行政區: 林邊鄉<br>xcoord: 200751.41670000000<br>ycoord: 2482424.27400000021]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>林邊鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>200751.41670000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2482424.27400000021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.521536,22.44064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>華森克里克公園（屏東農科）</name>
+        <description><![CDATA[說明: <br>行政區: 長治鄉<br>xcoord: 202187.72260000001<br>ycoord: 2512788.38400000008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>長治鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>202187.72260000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2512788.38400000008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.53457,22.714897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南州運動公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 南州鄉<br>xcoord: 199858.66720000000<br>ycoord: 2488043.20399999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>南州鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199858.66720000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2488043.20399999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.512686,22.491359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>縣民公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 198040.07980000001<br>ycoord: 2506487.41000000015]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198040.07980000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506487.41000000015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.494405,22.657872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹圍巷公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 195675.57840000000<br>ycoord: 2507802.03800000018]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>195675.57840000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2507802.03800000018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.471352,22.66967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民學公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 198886.57180000001<br>ycoord: 2508205.34800000023]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198886.57180000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508205.34800000023</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.502585,22.673412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高豐公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 199003.22190000000<br>ycoord: 2508431.79300000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199003.22190000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508431.79300000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.503713,22.67546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武愛公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196396.99720000001<br>ycoord: 2506402.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196396.99720000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506402.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.65705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清世公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196032.83080000000<br>ycoord: 2506303.69199999981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196032.83080000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506303.69199999981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47488,22.65615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>興豐公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 199487.37990000000<br>ycoord: 2509070.49500000011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199487.37990000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509070.49500000011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.508404,22.681243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上興公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 199657.36610000001<br>ycoord: 2509244.73900000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199657.36610000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509244.73900000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.510053,22.682822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和平公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 198751.24530000001<br>ycoord: 2509575.00100000016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198751.24530000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509575.00100000016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.501224,22.685777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新興公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 197036.19060000000<br>ycoord: 2505133.41999999993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197036.19060000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2505133.41999999993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484682,22.645613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公21公園(永大共融公園)</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196334.05489999999<br>ycoord: 2506791.19100000011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196334.05489999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506791.19100000011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.477794,22.660562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣立圖書館復興分館</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196549.91170000000<br>ycoord: 2506758.50900000008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196549.91170000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506758.50900000008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.479896,22.660274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武立公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196000.70830000000<br>ycoord: 2506644.90700000012]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196000.70830000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506644.90700000012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.474556,22.65923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大武路公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 195813.73569999999<br>ycoord: 2506960.93399999989]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>195813.73569999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506960.93399999989</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.472726,22.662078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武順街135巷小公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 195715.27600000001<br>ycoord: 2506312.14900000021]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>195715.27600000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506312.14900000021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47179,22.656216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 197831.30319999999<br>ycoord: 2508348.80400000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197831.30319999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508348.80400000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.492311,22.674675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>廣興公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 197317.47349999999<br>ycoord: 2510225.97599999979]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197317.47349999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2510225.97599999979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487248,22.691612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>復興公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196814.36739999999<br>ycoord: 2506578.16099999985]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196814.36739999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506578.16099999985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.482475,22.658653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永新公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196394.60910000000<br>ycoord: 2508536.23400000017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196394.60910000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508536.23400000017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.478324,22.676323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東市極限運動場</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196974.20240000001<br>ycoord: 2508571.39699999988]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196974.20240000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508571.39699999988</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.483963,22.676659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忠孝國小與公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 199075.74080000000<br>ycoord: 2508569.33600000013]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199075.74080000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508569.33600000013</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.504414,22.676705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蘭州街特色公園(勝利動物溜滑梯公園)</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 197099.14240000001<br>ycoord: 2508939.38599999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197099.14240000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508939.38599999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.485166,22.679986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千禧公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 198417.16649999999<br>ycoord: 2508822.15700000012]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198417.16649999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2508822.15700000012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.497997,22.678968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬年公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 197060.82600000000<br>ycoord: 2507233.79600000009]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197060.82600000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2507233.79600000009</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.484851,22.664582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北興公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 198146.31330000001<br>ycoord: 2509972.27499999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>198146.31330000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509972.27499999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.495323,22.689346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>崇蘭環保公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196594.89079999999<br>ycoord: 2509705.94600000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196594.89079999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509705.94600000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.480233,22.686893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永大路公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196339.68599999999<br>ycoord: 2506714.47200000007]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196339.68599999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506714.47200000007</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.477852,22.659869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武成公園</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196396.99720000001<br>ycoord: 2506402.07100000000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196396.99720000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2506402.07100000000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.65705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中正市地重劃區遊樂場</name>
+        <description><![CDATA[說明: <br>行政區: 屏東市<br>xcoord: 196409.27220000001<br>ycoord: 2509900.08300000010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>屏東市</value>
+          </Data>
+          <Data name="xcoord">
+            <value>196409.27220000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2509900.08300000010</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.47842,22.68864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石牌公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 恆春鎮<br>xcoord: 223371.64490000001<br>ycoord: 2434068.76099999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>恆春鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>223371.64490000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2434068.76099999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.742095,22.004418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣新園鄉立圖書館共和分館</name>
+        <description><![CDATA[說明: <br>行政區: 新園鄉<br>xcoord: 192224.294876898<br>ycoord: 2486706.92492251]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>新園鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>192224.294876898</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2486706.92492251</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.438544,22.479052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第三公園</name>
+        <description><![CDATA[說明: <br>行政區: 恆春鎮<br>xcoord: 224025.93380000000<br>ycoord: 2434198.36200000020]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>恆春鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>224025.93380000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2434198.36200000020</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.74843,22.005599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>崁頂運動公園特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 崁頂鄉<br>xcoord: 199221.32810000001<br>ycoord: 2490724.50499999989]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>崁頂鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>199221.32810000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2490724.50499999989</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.506406,22.515555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小琉球全人關懷園區特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 琉球鄉<br>xcoord: 186769.88670000000<br>ycoord: 2472152.48900000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>琉球鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>186769.88670000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2472152.48900000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.386115,22.347417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小叮噹公園</name>
+        <description><![CDATA[說明: <br>行政區: 高樹鄉<br>xcoord: 209177.05170000001<br>ycoord: 2524899.91699999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>高樹鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>209177.05170000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2524899.91699999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.60229,22.824457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新埤鄉綜合休閒公園</name>
+        <description><![CDATA[說明: <br>行政區: 新埤鄉<br>xcoord: 206815.30840000001<br>ycoord: 2485338.54199999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>新埤鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206815.30840000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2485338.54199999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.580368,22.467123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新園鄉共融式公園</name>
+        <description><![CDATA[說明: <br>行政區: 新園鄉<br>xcoord: 194460.49510000000<br>ycoord: 2493883.77900000010]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>新園鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>194460.49510000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2493883.77900000010</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.460019,22.543938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏東縣新園鄉立圖書館共和分館</name>
+        <description><![CDATA[說明: <br>行政區: 新園鄉<br>xcoord: 281738.58419999998<br>ycoord: 13397244.14000000060]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>新園鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>281738.58419999998</value>
+          </Data>
+          <Data name="ycoord">
+            <value>13397244.14000000060</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.440704,22.478597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬丹鄉公園(萬丹鄉立游泳池)</name>
+        <description><![CDATA[說明: <br>行政區: 萬丹鄉<br>xcoord: 197277.45590000000<br>ycoord: 2499431.27499999991]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>萬丹鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>197277.45590000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2499431.27499999991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.487221,22.594126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬巒兒童親水公園</name>
+        <description><![CDATA[說明: <br>行政區: 萬巒鄉<br>xcoord: 206636.82910000000<br>ycoord: 2498572.43999999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>萬巒鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206636.82910000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2498572.43999999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.578271,22.586635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮州社福園區特色遊具建置</name>
+        <description><![CDATA[說明: <br>行政區: 潮州鎮<br>xcoord: 202544.71450000000<br>ycoord: 2492595.90799999982]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>潮州鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>202544.71450000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2492595.90799999982</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.538654,22.532551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三水公園</name>
+        <description><![CDATA[說明: <br>行政區: 潮州鎮<br>xcoord: 202926.83140000000<br>ycoord: 2495430.41800000006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>潮州鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>202926.83140000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2495430.41800000006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.542284,22.55816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮州運動公園</name>
+        <description><![CDATA[說明: <br>行政區: 潮州鎮<br>xcoord: 203529.01160000000<br>ycoord: 2493910.27999999980]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>潮州鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>203529.01160000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2493910.27999999980</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.548184,22.544449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>公兒四(潮昇)兒童</name>
+        <description><![CDATA[說明: <br>行政區: 潮州鎮<br>xcoord: 203361.89520000000<br>ycoord: 2495247.41999999993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>潮州鎮</value>
+          </Data>
+          <Data name="xcoord">
+            <value>203361.89520000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2495247.41999999993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.54652,22.55652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>麟洛車站花轎遊戲場</name>
+        <description><![CDATA[說明: <br>行政區: 麟洛鄉<br>xcoord: 200081.57360000000<br>ycoord: 2503929.12800000003]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>麟洛鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>200081.57360000000</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2503929.12800000003</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.51435,22.63483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔鄉家庭福利中心</name>
+        <description><![CDATA[說明: <br>行政區: 鹽埔鄉<br>xcoord: 206654.82810000001<br>ycoord: 2517822.00999999978]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>鹽埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206654.82810000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2517822.00999999978</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.577915,22.760475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔兒童重劃公園</name>
+        <description><![CDATA[說明: <br>行政區: 鹽埔鄉<br>xcoord: 205988.06700000001<br>ycoord: 2517045.87099999981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>鹽埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>205988.06700000001</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2517045.87099999981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.571444,22.753449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔雙新公園</name>
+        <description><![CDATA[說明: <br>行政區: 鹽埔鄉<br>xcoord: 204341.25109999999<br>ycoord: 2514550.86299999990]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>鹽埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>204341.25109999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2514550.86299999990</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.555482,22.730873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹽埔公(兒)四</name>
+        <description><![CDATA[說明: <br>行政區: 鹽埔鄉<br>xcoord: 206120.05309999999<br>ycoord: 2516987.45699999994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="行政區">
+            <value>鹽埔鄉</value>
+          </Data>
+          <Data name="xcoord">
+            <value>206120.05309999999</value>
+          </Data>
+          <Data name="ycoord">
+            <value>2516987.45699999994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.572731,22.752925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
